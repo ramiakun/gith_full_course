@@ -1,0 +1,32 @@
+[
+  {
+    "com": 1,
+    "user": 1,
+    "result": "あいこ"
+  },
+  {
+    "com": 0,
+    "user": 1,
+    "result": "負け"
+  },
+  {
+    "com": 1,
+    "user": 2,
+    "result": "負け"
+  },
+  {
+    "com": 0,
+    "user": 2,
+    "result": "勝ち"
+  },
+  {
+    "com": 2,
+    "user": 1,
+    "result": "勝ち"
+  },
+  {
+    "com": 0,
+    "user": 2,
+    "result": "勝ち"
+  }
+]
