@@ -1,3 +1,5 @@
-funciton greet()
-console.log("hello git");
+funciton greet(){
+    console.log("Hello from the main branch");
+}
 
+greet();
